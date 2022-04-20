@@ -1,0 +1,27 @@
+.container-login {
+    background: linear-gradient(to right, #63CEC1, #0b7266);
+    overflow: hidden;
+    height: 100vh;
+
+}
+
+.container-grid-login {
+    background: #fff;
+    max-width: 950px;
+    min-width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 1rem;
+    box-shadow: 3px 3px 3px 1px #413e3e8e;
+}
+
+.container-row {
+    margin: 90px auto;
+    align-items: stretch;
+}
+
+.bg-mascota {
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+
+}
